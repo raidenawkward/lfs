@@ -10,17 +10,24 @@
 	Linux version 2.6.31-19-generic gcc version 4.4.1
 
 5.what did i do
+	5.1) software source picking up
+	5.2) env preparations
 
 6.unfinished
-	network configure
+	network configuration failed
 	keyboard charmap error
 
 7.to improve
-	software management
+	software expending & management
+	unified compiling
 
 8.sources
-	lfs 官方 http://www.linuxfromscratch.org/
-	lfs 中文用户组 http://lfs.linuxsir.org/main/
-	lfs 7.0
-	lfs 6.8
-	lfs 6.1-zh_CN
+	LFS Official http://www.linuxfromscratch.org/
+	LFS 中文用户组 http://lfs.linuxsir.org/main/
+	LFS 7.0
+	LFS 6.8
+	LFS 6.1-zh_CN
+	git://github.com/raidenawkward/lfs.git
+
+
+	mail: raiden.ht@gmail.com

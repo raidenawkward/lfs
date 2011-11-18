@@ -5,6 +5,9 @@
 3.what i've gotten
 
 4.what do i need
+	LFS v6.8
+
+	内存:35892
 	编译时占用 5.73G
 	实际占用 1.24G
 	Linux version 2.6.31-19-generic gcc version 4.4.1
@@ -12,6 +15,13 @@
 5.what did i do
 	5.1) software source picking up
 	5.2) env preparations
+	5.3) tools compiling for temp system
+	5.4) temp system constructing
+	5.5) LFS system constructing and setting
+	5.6) boot script setting up
+	5.7) kernel compiling
+	5.8) boot setting up (grub)
+	5.9) rebooting & enjoying
 
 6.unfinished
 	network configuration failed
@@ -20,10 +30,11 @@
 7.to improve
 	software expending & management
 	unified compiling
+	migration
 
 8.sources
 	LFS Official http://www.linuxfromscratch.org/
-	LFS 中文用户组 http://lfs.linuxsir.org/main/
+	LFS 中文用户组 http://lfs.linuxsir.org/
 	LFS 7.0
 	LFS 6.8
 	LFS 6.1-zh_CN

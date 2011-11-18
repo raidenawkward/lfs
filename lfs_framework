@@ -5,7 +5,7 @@
 
 	* customized linux system
 	* compling based
-	* experience of building workable os
+	* experience of building workable OS
 
 3.what i've gotten
 
@@ -13,12 +13,14 @@
 
 4.what do i need
 
-	LFS doc - LFS v6.8
+	* LFS doc - LFS v6.8
+	* linux release
+	* compiling toolchain
+	* independent disk partition & tools
 
 	Actual token:
-
 	内存:35892
-	*independent disk partition
+
 	编译时占用 5.73G
 	实际占用 1.24G
 	Linux version 2.6.31-19-generic gcc version 4.4.1*
@@ -44,16 +46,12 @@
 
 7.to improve
 	software expending & management (BLFS)
-	unified compiling
+	unified compiling (ALFS)
 	migration
 
 8.sources
 	LFS Official http://www.linuxfromscratch.org/
 	LFS 中文用户组 http://lfs.linuxsir.org/
-	LFS 7.0
-	LFS 6.8
-	LFS 6.1-zh_CN
 	git://github.com/raidenawkward/lfs.git
-
 
 	mail: raiden.ht@gmail.com

@@ -1,17 +1,18 @@
-1.summarize
-	LFS - Linux From Scratch
 
-2.what am i doing
+	OVERVIEW LFS - Linux From Scratch
+
+
+1.what am i doing
 
 	* customized linux system
 	* compling based
 	* experience of building workable OS
 
-3.what i've gotten
+2.what i've gotten
 
 	:)
 
-4.what do i need
+3.what do i need
 
 	* LFS doc - LFS v6.8
 	* linux release
@@ -29,7 +30,7 @@
 	Part1. source list
 	Part2. manual
 
-5.what did i do
+4.what did i do
 	5.1) software source picking up
 	5.2) env preparations
 	5.3) tools compiling for temp system
@@ -40,16 +41,16 @@
 	5.8*) boot setting up (grub)
 	5.9) rebooting & enjoying
 
-6.unfinished
+5.unfinished
 	network configuration failed
 	keyboard charmap error
 
-7.to improve
-	software expending & management (BLFS)
+6.to improve
+	software expending & management (out of goal)
 	unified compiling (ALFS)
 	migration
 
-8.sources
+7.sources
 	LFS Official http://www.linuxfromscratch.org/
 	LFS 中文用户组 http://lfs.linuxsir.org/
 	git://github.com/raidenawkward/lfs.git
